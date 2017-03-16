@@ -1,0 +1,12 @@
+{
+  "launchCommand": "",
+  "output": {
+    "outputDir": "./output",
+    "outputFileNamePattern": "stdout {date:%d %b %Y %H-%M-%S}"
+  },
+  "report": {
+    "reportDir": "./report",
+    "reportFileNamePattern": "report {date:%d %b %Y %H-%M-%S}"
+  },
+  "pattern": []
+}

@@ -1,0 +1,12 @@
+b'\r
+Pinging google.com [216.58.209.46] with 32 bytes of data:\r
+Reply from 216.58.209.46: bytes=32 time=29ms TTL=54\r
+Reply from 216.58.209.46: bytes=32 time=28ms TTL=54\r
+Reply from 216.58.209.46: bytes=32 time=28ms TTL=54\r
+Reply from 216.58.209.46: bytes=32 time=28ms TTL=54\r
+\r
+Ping statistics for 216.58.209.46:\r
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),\r
+Approximate round trip times in milli-seconds:\r
+    Minimum = 28ms, Maximum = 29ms, Average = 28ms\r
+'

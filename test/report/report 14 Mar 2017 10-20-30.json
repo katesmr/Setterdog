@@ -1,0 +1,14 @@
+[
+    {
+        "regex": "TTL=[\\d]+",
+        "name": "ttl",
+        "code": 22,
+        "count": 4
+    },
+    {
+        "regex": "mozila",
+        "name": "mozila",
+        "code": 90,
+        "count": 1
+    }
+]

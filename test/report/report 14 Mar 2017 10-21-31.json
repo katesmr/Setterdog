@@ -1,0 +1,14 @@
+[
+    {
+        "regex": "TTL=[\\d]+",
+        "name": "ttl",
+        "code": 22,
+        "count": 2
+    },
+    {
+        "regex": "test",
+        "name": "test",
+        "code": 90,
+        "count": 0
+    }
+]

@@ -1,0 +1,12 @@
+b'\r
+Pinging mozila.com [64.85.171.16] with 32 bytes of data:\r
+Reply from 64.85.171.16: bytes=32 time=189ms TTL=47\r
+Reply from 64.85.171.16: bytes=32 time=188ms TTL=47\r
+Reply from 64.85.171.16: bytes=32 time=190ms TTL=47\r
+Reply from 64.85.171.16: bytes=32 time=188ms TTL=47\r
+\r
+Ping statistics for 64.85.171.16:\r
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),\r
+Approximate round trip times in milli-seconds:\r
+    Minimum = 188ms, Maximum = 190ms, Average = 188ms\r
+'

@@ -1,0 +1,28 @@
+{
+  "launchCommand": "",
+  "output": {
+    "outputDir": "./output",
+    "outputFileNamePattern": "stdout {date:%d %b %Y %H-%M-%S}"
+  },
+  "report": {
+    "reportDir": "./report",
+    "reportFileNamePattern": "report {date:%d %b %Y %H-%M-%S}"
+  },
+  "pattern": [
+    {
+      "regex": "time=[\\d]+ms",
+      "name": "t",
+      "code": 45
+    },
+    {
+      "regex": "TTL=[\\d]+",
+      "name": "T",
+      "code": 33
+    },
+    {
+      "regex": "test",
+      "name": "test",
+      "code": 4
+    }
+  ]
+}

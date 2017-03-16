@@ -1,0 +1,14 @@
+[
+    {
+        "regex": "time=[\\d]+ms",
+        "name": "time",
+        "code": 33,
+        "count": 4
+    },
+    {
+        "regex": "bytes=[\\d]+",
+        "name": "bytes",
+        "code": 45,
+        "count": 4
+    }
+]

@@ -1,0 +1,32 @@
+2017-03-06 16:57:03,909   [ INFO ]   [6928]debug::__init__:51 #   :::::::::::::::::::: Logger created ::::::::::::::::::::
+2017-03-06 16:57:03,909   [ ERROR ]   [6928]DictObj::__getitem__:55 #   Invalid key '0' of object '{'pattern': [{'regex': 'time=[\\d]+ms', 'name': 'time', 'error-code': '3'}, {'regex': 'TTL=[\\d]+', 'name': 'TTL', 'error-code': '2'}]}'
+2017-03-07 11:43:50,790   [ INFO ]   [5216]debug::__init__:51 #   :::::::::::::::::::: Logger created ::::::::::::::::::::
+2017-03-07 11:43:50,790   [ CRITICAL ]   [5216]Configuration::isValidConfigData:30 #   NOT VALID CONFIG
+2017-03-07 11:43:50,790   [ CRITICAL ]   [5216]Configuration::isValidConfigData:30 #   NOT VALID CONFIG
+2017-03-07 11:44:53,720   [ INFO ]   [5432]debug::__init__:51 #   :::::::::::::::::::: Logger created ::::::::::::::::::::
+2017-03-07 11:44:53,720   [ CRITICAL ]   [5432]Configuration::isValidConfigData:30 #   NOT VALID CONFIG
+2017-03-07 11:44:53,720   [ CRITICAL ]   [5432]Configuration::isValidConfigData:30 #   NOT VALID CONFIG
+2017-03-07 11:45:41,790   [ INFO ]   [5916]debug::__init__:51 #   :::::::::::::::::::: Logger created ::::::::::::::::::::
+2017-03-07 11:45:41,790   [ CRITICAL ]   [5916]Configuration::isValidConfigData:30 #   NOT VALID CONFIG PATTERN '{'regex': 'time=[\\d]+ms', 'name': 'time', 'error-code': '3'}'
+2017-03-07 11:45:41,790   [ CRITICAL ]   [5916]Configuration::isValidConfigData:30 #   NOT VALID CONFIG PATTERN '{'regex': 'TTL=[\\d]+', 'name': 'TTL', 'error-code': '2'}'
+2017-03-07 11:46:37,455   [ INFO ]   [3684]debug::__init__:51 #   :::::::::::::::::::: Logger created ::::::::::::::::::::
+2017-03-07 11:46:37,455   [ CRITICAL ]   [3684]Configuration::isValidConfigData:30 #   NOT VALID CONFIG PATTERN '{'regex': 'time=[\\d]+ms', 'name': 'time', 'error-code': '3'}'
+2017-03-07 11:47:48,019   [ INFO ]   [3668]debug::__init__:51 #   :::::::::::::::::::: Logger created ::::::::::::::::::::
+2017-03-07 11:47:48,019   [ CRITICAL ]   [3668]Configuration::isValidConfigData:31 #   NOT VALID CONFIG PATTERN '{'regex': 'time=[\\d]+ms', 'name': 'time', 'error-code': '3'}'
+2017-03-07 12:30:38,047   [ INFO ]   [4224]debug::__init__:51 #   :::::::::::::::::::: Logger created ::::::::::::::::::::
+2017-03-07 12:30:38,048   [ ERROR ]   [4224]Helper::dictMerger:69 #   'list' object is not a mapping
+2017-03-09 14:31:37,693   [ INFO ]   [1752]debug::__init__:51 #   :::::::::::::::::::: Logger created ::::::::::::::::::::
+2017-03-09 14:33:21,605   [ INFO ]   [6304]debug::__init__:51 #   :::::::::::::::::::: Logger created ::::::::::::::::::::
+2017-03-09 14:33:54,061   [ INFO ]   [6544]debug::__init__:51 #   :::::::::::::::::::: Logger created ::::::::::::::::::::
+2017-03-09 14:33:54,064   [ CRITICAL ]   [6544]Configuration::isValidConfigData:33 #   Not valid config pattern time
+2017-03-09 14:34:26,909   [ INFO ]   [7148]debug::__init__:51 #   :::::::::::::::::::: Logger created ::::::::::::::::::::
+2017-03-09 14:35:22,167   [ INFO ]   [6360]debug::__init__:51 #   :::::::::::::::::::: Logger created ::::::::::::::::::::
+2017-03-09 14:40:44,907   [ INFO ]   [5152]debug::__init__:51 #   :::::::::::::::::::: Logger created ::::::::::::::::::::
+2017-03-09 14:50:20,185   [ INFO ]   [7020]debug::__init__:51 #   :::::::::::::::::::: Logger created ::::::::::::::::::::
+2017-03-09 14:50:20,187   [ CRITICAL ]   [7020]Configuration::isValidConfigData:33 #   Not valid config pattern time
+2017-03-09 14:50:32,660   [ INFO ]   [6204]debug::__init__:51 #   :::::::::::::::::::: Logger created ::::::::::::::::::::
+2017-03-09 14:50:32,663   [ ERROR ]   [6204]Helper::jsonParser:41 #   File 'user_confg.json' don't exist
+2017-03-10 09:54:25,107   [ INFO ]   [5264]debug::__init__:51 #   :::::::::::::::::::: Logger created ::::::::::::::::::::
+2017-03-10 09:54:25,107   [ ERROR ]   [5264]Helper::parseJson:41 #   File 'default_config2.json' don't exist
+2017-03-10 09:54:25,107   [ ERROR ]   [5264]Helper::parseJson:41 #   File 'user_config2.json' don't exist
+2017-03-10 09:54:25,107   [ ERROR ]   [5264]Helper::MergeDict:71 #   'NoneType' object is not a mapping

@@ -1,0 +1,23 @@
+{
+  "launchCommand": "ping mozila.com",
+  "output": {
+    "outputDir": "test\\output",
+    "outputFileNamePattern": "stdout {date:%d %b %Y %H-%M-%S}"
+  },
+  "report": {
+    "reportDir": "test\\report",
+    "reportFileNamePattern": "report {date:%d %b %Y %H-%M-%S}"
+  },
+  "pattern": [
+    {
+      "regex": "TTL=[\\d]+",
+      "name": "ttl",
+      "code": 22
+    },
+    {
+      "regex": "test",
+      "name": "test",
+      "code": 90
+    }
+  ]
+}

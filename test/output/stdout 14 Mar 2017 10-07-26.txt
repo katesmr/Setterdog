@@ -1,0 +1,12 @@
+b'\r
+Pinging nb-jc8r312 [::1] with 32 bytes of data:\r
+Reply from ::1: time<1ms \r
+Reply from ::1: time<1ms \r
+Reply from ::1: time<1ms \r
+Reply from ::1: time<1ms \r
+\r
+Ping statistics for ::1:\r
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),\r
+Approximate round trip times in milli-seconds:\r
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms\r
+'

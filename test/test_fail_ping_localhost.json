@@ -1,0 +1,22 @@
+{
+  "launchCommand": "ping localhost",
+  "output": {
+    "outputDir": "test\\output",
+    "outputFileNamePattern": "stdout {date:%d %b %Y %H-%M-%S}"
+  },
+  "report": {
+    "reportDir": "test\\report",
+    "reportFileNamePattern": "report {date:%d %b %Y %H-%M-%S}"
+  },
+  "pattern": [
+    {
+      "regex": "time=[\\d]+ms",
+      "name": "time",
+      "code": 33
+    },
+    {
+      "regex": "bytes=[\\d]+",
+      "name": "bytes",
+      "code": 45
+    }
+}
